@@ -1,6 +1,6 @@
 def my_each(words)
   i = 0
-while i < 4
+while i < words.length
   yield(words)
   words
   i += 1
