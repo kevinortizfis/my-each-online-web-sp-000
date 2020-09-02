@@ -3,6 +3,6 @@ def my_each(argument)
 while argument < i do
   yield(argument)
   print i
-  counter =+ 1
+  o =+ 1
 end
 end
