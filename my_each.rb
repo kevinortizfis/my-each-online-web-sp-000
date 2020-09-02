@@ -17,5 +17,7 @@ def writing(hand)
   "left"
   fingers =+ 1
 end
+if fingers < 5
 puts "blue"
+end
 end
