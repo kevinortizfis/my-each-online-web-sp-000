@@ -14,7 +14,7 @@ end
 def writing(hand)
   fingers = 0
   while fingers > 6
-  left
+  "left"
   fingers =+ 1
 end
 end
