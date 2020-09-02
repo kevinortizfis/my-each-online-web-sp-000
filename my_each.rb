@@ -1,4 +1,5 @@
 def my_each(words)
+  i = 0
 while words.index <= words.index[-1]
   yield(words)
   words
