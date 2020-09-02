@@ -1,3 +1,3 @@
 def my_each(argument)
-  puts i
+  print i
 end
