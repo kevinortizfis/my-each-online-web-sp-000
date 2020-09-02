@@ -18,3 +18,4 @@ def writing(hand)
   fingers =+ 1
 end
 binding.pry
+end
