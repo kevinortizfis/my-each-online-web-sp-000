@@ -18,6 +18,6 @@ def writing(hand)
   fingers =+ 1
 end
 if fingers < 5
-puts "blue"
+ "blue"
 end
 end
