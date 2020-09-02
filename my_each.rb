@@ -17,5 +17,4 @@ def writing(hand)
   puts "left"
   fingers =+ 1
 end
-binding.pry
 end
