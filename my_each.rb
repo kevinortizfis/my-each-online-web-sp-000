@@ -1,6 +1,6 @@
 def my_each(argument)
-while argument < i
+while argument < i do |thing|
   yield(argument)
-  print i
+  print thing
 end
 end
