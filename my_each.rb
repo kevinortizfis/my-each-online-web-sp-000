@@ -1,6 +1,5 @@
 def my_each(argument)
 while argument.index < i
-  for argue in argument
   yield(argument)
   print i
 end
