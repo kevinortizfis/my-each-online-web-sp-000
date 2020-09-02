@@ -17,4 +17,5 @@ def writing(hand)
   "left"
   fingers =+ 1
 end
+puts "blue"
 end
