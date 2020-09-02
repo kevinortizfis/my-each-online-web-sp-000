@@ -1,4 +1,4 @@
-def my_each(argument)
+def my_each(words)
 while argument.index < i
   yield(argument)
   print i
