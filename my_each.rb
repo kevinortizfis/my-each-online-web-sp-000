@@ -1,6 +1,7 @@
 def my_each(words)
 while words.index < i
   yield(words)
+  words
 end
 end
 
